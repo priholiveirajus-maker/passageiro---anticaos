@@ -1,0 +1,7 @@
+{
+  "name": "Passageiro Anticaos",
+  "description": "Central de emergência jurídica para passageiros aéreos. Orientação prática e imediata para voos atrasados, cancelados ou extravios.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
